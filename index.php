@@ -1,6 +1,6 @@
 <?php
 
-echo "Random numero: " . $num = rand(-100, 100);
+echo "Random numero from Toivo: " . $num = rand(-100, 100);
 echo "<br>";
 echo "Numero rand: " . $abs = abs($num);
 echo "<br>";
